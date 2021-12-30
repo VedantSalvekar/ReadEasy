@@ -1,0 +1,66 @@
+.body {
+	background: #ffffff;
+	font-family: 'Varela Round', sans-serif;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.form-inline {
+	display: inline-block;
+}
+.form-search{
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.form-rounded {
+	margin-left: 85px;
+	width: 700px !important;
+	padding-right: 0px !important;
+	margin-right: 0px !important;
+	border-right: none !important;
+	border-bottom-left-radius: 3rem;
+	border-top-left-radius: 3rem;
+	border-bottom-right-radius: 0rem;
+	border-top-right-radius: 0rem;
+}
+.search-btn{
+	padding-left: 0px !important;
+	margin-left: -5px !important;
+	border-left: none !important;
+	border-left-style: none !important;
+	border-left-width:0px !;
+	border-bottom-left-radius: 0rem;
+	border-top-left-radius: 0rem;
+	border-bottom-right-radius: 3rem;
+	border-top-right-radius: 3rem;
+}
+.navbar {
+	background: #fff;
+	border-bottom: 1px solid #d6d6d6;
+	box-shadow: 0 0 12px rgba(0, 0, 0, .1);
+	padding-right: 16px;
+	padding-left: 20px;
+	font-family: 'Varela Round', sans-serif;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	margin-left: 30px;
+}
+
+
+.navbar-nav > li{
+  padding:8px 15px;
+}
+.navbar-right-item:hover {
+	background-color: #eeeeee;
+}
+.right-item:hover {
+	text-decoration: none;
+}
+
+
+
+
+
